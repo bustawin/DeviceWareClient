@@ -41,7 +41,7 @@
     "dynamic-bind-html": "^1.0.1",
     "file-saver": "2.0.0",
     "ganache-cli": "^6.9.1",
-    "gulp": "~3.9.0",
+    "gulp": "^4.0.2",
     "gulp-angular-templatecache": "~2.0.0",
     "gulp-clean": "~0.3.1",
     "gulp-concat": "~2.6.0",
