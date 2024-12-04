@@ -70,7 +70,7 @@
     "urijs": "~1.19.1",
     "vinyl-buffer": "~1.0.0",
     "vinyl-source-stream": "~1.1.0",
-    "xlsx": "^0.15.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "angular-mocks": "~1.5.6",
