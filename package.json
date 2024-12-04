@@ -36,7 +36,7 @@
     "angular-ui-tree": "^2.22.6",
     "api-check": "~7.5.5",
     "bootstrap": "3.4.0",
-    "bootstrap-sass": "3.4.0",
+    "bootstrap-sass": "3.4.1",
     "bootswatch": "3.4.0",
     "dynamic-bind-html": "^1.0.1",
     "file-saver": "2.0.0",
